@@ -47,6 +47,7 @@ const App = () => {
       console.log(error);
     }
   };
+  
   const connectWallet = async (event) => {
     try {
       const { ethereum } = window;
