@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # buildspace Wave Portal 👋 
 
 ### **Welcome!**
@@ -13,4 +12,3 @@ Have some questions make sure you head over to your [buildspace Dashboard](https
 =======
 # WavePortal
 Wave Portal
->>>>>>> 08c9100bbd0f1f7a12fb9a190cc7d5efae738c44
