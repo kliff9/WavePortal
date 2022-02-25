@@ -10,6 +10,7 @@ const App = () => {
     event.preventDefault();
     setwavetext(event.target.value);
   };
+  
   /**
    * Create a variable here that holds the contract address after you deploy!
    */
@@ -47,7 +48,7 @@ const App = () => {
       console.log(error);
     }
   };
-  
+
   const connectWallet = async (event) => {
     try {
       const { ethereum } = window;
