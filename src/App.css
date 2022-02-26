@@ -1,8 +1,14 @@
+
+body {
+  background-image: url(./img/wallpaperr.jpg);
+  background-size: cover;
+}
 .mainContainer {
   display: flex;
   justify-content: center;
   width: 100%;
   margin-top: 64px;
+
 }
 
 .dataContainer {
@@ -20,8 +26,18 @@
 
 .bio {
   text-align: center;
-  color: gray;
-  margin-top: 16px;
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 10px;
+  color: white;
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+  box-shadow: 0 0.4px 0.4px rgba(128, 128, 128, 0.109),
+    0 1px 1px rgba(128, 128, 128, 0.155),
+    0 2.1px 2.1px rgba(128, 128, 128, 0.195),
+    0 4.4px 4.4px rgba(128, 128, 128, 0.241), 0 12px 12px rgba(97, 85, 85, 0.35);
 }
 
 .waveButton {
@@ -52,7 +68,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 50px 40px;
+  padding: 80px 60px;
   color: white;
   background: rgba(0, 0, 0, 0.8);
   border-radius: 10px;
