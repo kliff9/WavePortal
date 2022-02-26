@@ -2,6 +2,12 @@
 =======
 # WavePortal 👋
 
+
+Purpose:
+
+This is a Web3 App built with Solidity and Ethereum smart contracts. Users can connect their wallet and send a message that is saved to the blockchain.
+
+
 Technologies Used:
 
 ◼ Hardhat - Ethereum development environment
@@ -12,10 +18,6 @@ Technologies Used:
 
 ◼ Alchemy - Broadcasts contract creation transaction to miners to add to the blockchain
 
-
-Purpose:
-
-This is a Web3 App built with Solidity and Ethereum smart contracts. Users can connect their wallet and send a message that is saved to the blockchain.
 
 
 Guide:
