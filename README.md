@@ -3,12 +3,12 @@
 # WavePortal 👋
 
 
-Purpose:
+# Purpose:
 
 This is a Web3 App built with Solidity and Ethereum smart contracts. Users can connect their wallet and send a message that is saved to the blockchain.
 
 
-Technologies Used:
+# Technologies Used:
 
 ◼ Hardhat - Ethereum development environment
 
@@ -20,10 +20,10 @@ Technologies Used:
 
 
 
-Guide:
+# Guide:
 
 https://buildspace.so
 
-Website: 
+# Website: 
 
 https://kliff9.github.io/WavePortal/
