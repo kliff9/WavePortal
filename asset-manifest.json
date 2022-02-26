@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/WavePortal/static/css/main.80cdeb61.chunk.css",
+    "main.css": "/WavePortal/static/css/main.37ed5e6f.chunk.css",
     "main.js": "/WavePortal/static/js/main.a48b2756.chunk.js",
     "main.js.map": "/WavePortal/static/js/main.a48b2756.chunk.js.map",
     "runtime-main.js": "/WavePortal/static/js/runtime-main.508fab2f.js",
@@ -8,14 +8,15 @@
     "static/js/2.2010fc6a.chunk.js": "/WavePortal/static/js/2.2010fc6a.chunk.js",
     "static/js/2.2010fc6a.chunk.js.map": "/WavePortal/static/js/2.2010fc6a.chunk.js.map",
     "index.html": "/WavePortal/index.html",
-    "precache-manifest.4fb382ecf3de193cd180d2f12e2320a4.js": "/WavePortal/precache-manifest.4fb382ecf3de193cd180d2f12e2320a4.js",
+    "precache-manifest.66ba21f15fde4e85d837cdd6a9eeec79.js": "/WavePortal/precache-manifest.66ba21f15fde4e85d837cdd6a9eeec79.js",
     "service-worker.js": "/WavePortal/service-worker.js",
-    "static/css/main.80cdeb61.chunk.css.map": "/WavePortal/static/css/main.80cdeb61.chunk.css.map"
+    "static/css/main.37ed5e6f.chunk.css.map": "/WavePortal/static/css/main.37ed5e6f.chunk.css.map",
+    "static/media/App.css": "/WavePortal/static/media/wallpaperr.7d63eaca.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.508fab2f.js",
     "static/js/2.2010fc6a.chunk.js",
-    "static/css/main.80cdeb61.chunk.css",
+    "static/css/main.37ed5e6f.chunk.css",
     "static/js/main.a48b2756.chunk.js"
   ]
 }
